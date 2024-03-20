@@ -1,0 +1,28 @@
+.search {
+    width: 200px;
+}
+
+.login-image {
+    background: url("img/univ.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-ipk {
+   background-image: url(img/togaa.png); 
+   width: 100px;
+   margin-top: -20px;
+   height: 100px;
+}
+
+.card-index {
+    height: 100px;
+    width: 400px;
+    background-color: pink;
+}
+
+.card-index2 {
+    height: 100px;
+    width: 500px;
+    background-color: pink;
+}
